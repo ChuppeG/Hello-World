@@ -1,0 +1,6 @@
+"portsAttributes": {
+  "3000": {
+    "label": "Web App",
+    "onAutoForward": "openPreview"
+  }
+}
